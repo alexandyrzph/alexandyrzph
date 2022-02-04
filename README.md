@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alexander
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning JavaScript 
+- 👀 I’m interested in Web Development
 - 📫 How to reach me alexandyrfreelance@gmail.com
 
 <!---
