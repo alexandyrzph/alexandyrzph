@@ -1,3 +1,5 @@
+<h1 align="left">Hi 👋, I'm Alexander</h1>
+<h3 align="left">A Software Engineering Student who's passionate about Web Development!</h3>
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/AlexandyrPH#6027) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aleksandar.atanasov.980) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-atanasov-79b7211a0) 
