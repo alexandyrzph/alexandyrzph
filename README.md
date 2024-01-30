@@ -2,10 +2,10 @@
 <h3 align="left">A Software Engineering Student who's passionate about Web Development!</h3>
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aleksandar.atanasov.980) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-atanasov-79b7211a0) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alexander-atanasov-79b7211a0) 
 
 # 💻Tech Stack
-[![](https://skillicons.dev/icons?i=js,html,css,sass,vue,bootstrap,firebase)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,html,css,sass,vue,bootstrap,firebase,git)](https://skillicons.dev)
 <br />
 [![](https://skillicons.dev/icons?i=react,tailwind,angular,ts,express,nodejs,mongodb)](https://skillicons.dev)
 
