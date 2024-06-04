@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alexander</h1>
-<h3 align="left">A Software Engineering Student who's passionate about Web Development!</h3>
+<h3 align="left">Passionate Web Developer!</h3>
 
 ## 🌐Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/alexander-atanasov-79b7211a0) 
